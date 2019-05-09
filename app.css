@@ -1,0 +1,7 @@
+.target-directory__naming-pattern-checkbox:checked + .target-directory__naming-pattern {
+    display: block;
+}
+
+.target-directory__naming-pattern {
+    display: none;
+}
